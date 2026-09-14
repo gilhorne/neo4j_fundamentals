@@ -26,3 +26,14 @@
 # The higher the temperature value, the more random the generated result will become, and the more likely the response will contain false statements.
 
 # A higher temperature may be appropriate when configuring an LLM to respond with more diverse and creative outputs, a lower temperature required when responses should be consistent and precise.
+
+# --- TRANSPARENCY ---
+
+# GenAI Models are often considered "black boxes" due to the difficulty deciphering their decision-making processes.
+
+# The LLM is also unable to provide the sources for its output or explain its reasoning.
+
+# - Bias
+# - Devoid of context
+# - Lack logical coherence
+
