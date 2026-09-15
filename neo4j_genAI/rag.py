@@ -58,5 +58,19 @@
 
 # -- EMBEDDINGS --
 
+# NPL : Natural Language Processing
+ 
+#  Embeddings are numerical translations of data objects represented as vectors
+
+# LLM algorithms will be able to compare two different text paragraphs by comparing their numerical representations
+
+# Each dimension in a vector can represent a particular semantic aspect of the word or phrase. 
+
+# When multiple dimensions are combined, they can convey the overall meaning of the word or phrase
+
+# --- EMBEDDING MODELS ---
+
+# Words with similar meanings or contexts will have vectors that are close together, while unrelated words will be farther apart.
+
 
 
